@@ -1,48 +1,53 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,238636,0d1117&height=250&section=header&text=Md.%20Tasnimur%20Rahman%20Shakir&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20AI%20Integrator%20%7C%20.NET%20Core&descAlignY=65&descAlign=50&animation=fadeIn" alt="Header" />
+</div>
 
-<!--
-**TasnimurRahmanShakir/TasnimurRahmanShakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Creating+Scalable+.NET+Solutions;Designing+Smooth+User+Experiences;Integrating+AI+Models+;Top+9th+HackTheAI+Hackathon+Finalist" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Md. Tasnimur Rahman Shakir</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVxeHVpdnl5enY4dHF1N3hwazZxdmtwMjl5MHpqenM5ODczODRwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnimurrahmanshakir&label=Profile%20views&color=0e75b6&style=flat" alt="tasnimurrahmanshakir" /> </p>
+<div align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tasnim.bd.cse@gmail.com&su=New%20Inquiry" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://portfolio-flax-mu-1qyi9up3pi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/tasnimurrahmanshakir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **JAVA EE, Competative Programming.**
+<br />
 
-- 💬 Ask me about **Java Core Language, C/C++ Basic**
+### 👨‍💻 **About Me**
 
-- 📫 How to reach me **tasnim.bd.cse@gmail.com**
+I am a **Full Stack Developer** bridging the gap between enterprise-grade backends and intelligent frontend interfaces. Currently an intern at **Object Canvas Technology** and a CSE student at **Green University**, I focus on building systems that are not just functional, but intelligent.
 
-- ⚡ Fun fact **I'm funny.**
+* 🔭 **Currently Working on:** `ProjectOrbit` (Enterprise .NET & SignalR Platform).
+* 🧠 **Core Focus:** Merging **Machine Learning** (ResNet, SmythOS) with modern web apps.
+* 🏆 **Highlight:** Top 9th National Finalist at SmythOS Hackathon 2025.
+* 📫 **Location:** Dhaka, Bangladesh.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/md-tasnimur-rahman-36bab6219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/md-tasnimur-rahman-36bab6219/" height="30" width="40" /></a>
-<a href="https://fb.com/tasnim0152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tasnim0152" height="30" width="40" /></a>
-<a href="https://instagram.com/m_tasnim123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_tasnim123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tasnimurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tasnimurrahman" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tasnim.bd.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tasnim.bd.cse" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@tasnimurrahmanshakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tasnimurrahmanshakir" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### 🛠️ **Tech Stack & Arsenal**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnimurrahmanshakir&show_icons=true&locale=en&layout=compact" alt="tasnimurrahmanshakir" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,fastapi,react,nextjs,postgres,mysql,mongodb,git,vscode&perline=6&theme=dark" />
+</div>
 
-![GitHub metrics](https://metrics.lecoq.io/TasnimurRahmanShakir)  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasnimurrahmanshakir&show_icons=true&locale=en" alt="tasnimurrahmanshakir" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasnimurrahmanshakir&" alt="tasnimurrahmanshakir" /></p>
+### 🚀 **Featured Engineering**
+
+| **Project** | **Description** | **Stack** |
+|:---:|:---|:---:|
+| **ProjectOrbit** | 🏢 **Enterprise Management System**<br>Real-time collaboration platform handling task tracking and live chat for concurrent users. | `.NET Core` `SignalR` `Next.js` `PostgreSQL` |
+| **medScan** | 🫀 **AI Disease Prediction**<br>ResNet-18 powered system for detecting heart disease from Chest X-rays with visualization. | `Django` `FastAPI` `PyTorch` `React` |
+| **CareerBoost AI** | 🤖 **AI Interview Coach**<br>Hackathon-winning platform for mock interviews and ATS resume scoring. | `SmythOS` `Express` `MongoDB` `React` |
+
+---
