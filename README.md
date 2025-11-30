@@ -46,7 +46,7 @@ I am a **Full Stack Developer** bridging the gap between enterprise-grade backen
 ### 🛠️ **Tech Stack & Arsenal**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,fastapi,react,nextjs,postgres,mysql,mongodb,git,vscode,c,cpp,java,html,css,bootstrap&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,fastapi,react,nextjs,postgres,mysql,git,vscode,c,cpp,java,html,css,tailwind&perline=9&theme=dark" />
 </div>
 
 ---
