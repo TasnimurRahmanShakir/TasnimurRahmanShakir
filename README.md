@@ -67,9 +67,8 @@ I am a **Full Stack Developer** bridging the gap between enterprise-grade backen
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TasnimurRahmanShakir&theme=blueberry-duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TasnimurRahmanShakir&theme=blueberry-duo" alt="GitHub Streak" /></a>
 
-<br/>
 
 
 
