@@ -67,7 +67,7 @@ I am a **Full Stack Developer** bridging the gap between enterprise-grade backen
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TasnimurRahmanShakir&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TasnimurRahmanShakir&theme=blueberry-duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
